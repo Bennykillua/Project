@@ -1,4 +1,3 @@
-
 # Sendy #
 
 Sendy is the delivery partner for moving packages in Kenya. Sendy provides an app and web platform that enables (small) businesses to connect with drivers and request ondemand or scheduled package delivery services anytime, any day, 24/7.
