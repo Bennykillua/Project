@@ -18,6 +18,6 @@ Recommended Analysis
 
 * Which user won the most amount of games? In what percentage of those games was the user the higher rated player
 
-Dataset from [Maven Analystics](https://www.mavenanalytics.io/data-playground)
+Dataset from [Maven Analytics](https://www.mavenanalytics.io/data-playground)
 
 A collabation with [Habeeb Agbaje](https://github.com/Hab-eeb)
