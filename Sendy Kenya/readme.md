@@ -7,6 +7,3 @@ Prepare a presentation that includes the answers to the tasks described below:
 1. Using the attached dataset, analyse the order cancellations and visualize the most important aspects using your preferred method. Document your steps if needed. Furthermore, recommend how to reduce the number of cancelled orders.
 
 2. Some of the data have been lost (read: we have deliberately deleted them from the data sheet). Please use the existing data set to “predict” the cancellation reason for all orders with missing data (Sheet 2). Please document your steps and method used. 
-
-
-A collabation with  [Habeeb Agbaje](https://github.com/Hab-eeb)
