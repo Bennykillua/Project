@@ -6,9 +6,7 @@ Data is available online. There are a lot of historical flight and taxi outime d
 
 Data set can be gotten from Bureau of Transportaion Statistics [Website](https://transtats.bts.gov/)
 
-
 Download instructions [Here](https://transtats.bts.gov/showHelp.asp#_DL_SELECTFIELDS)
-
 
 I would use only the first half of 2019 to answer a few questions. 
 
