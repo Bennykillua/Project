@@ -9,5 +9,9 @@ Section is a community-generated pool of educational content which is useful for
 
 In this notebook, you will show you how to visualize your dataset with Chartify. [Chartify](https://chartify.readthedocs.io/en/latest/) is a Python library that aims to make it easy for data scientists to create charts. This open-source library was introduced to the world in this article by Spotify Lab, [Introducing Chartify: Easier chart creation in Python for data scientists](https://engineering.atspotify.com/2018/11/15/introducing-chartify-easier-chart-creation-in-python-for-data-scientists/), as a means for you and I to build visually appealing charts using Python.
 
+# Images
+
+In the image folder, you will find the images of the charts plotted. The images doesn't display on Github. You can also download and run the .py file.
+
 **Link to Article:** 
 
