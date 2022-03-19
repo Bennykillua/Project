@@ -3,137 +3,243 @@
 
 This repos contains some basic and most useful commands in Git.
 
-# Installation
+## Installation
+<details>
+<summary>Find out more </summary>
+ 
+<pre>$ git --version </pre>
 
-git --version
+</details>
 
-# Git Configuration
+---
 
-git config --global user.name "[username]"
+## Git configuartion 
+<details>
+<summary>Find out more</summary>
 
-git config --global user.email "[valid-email]"
+<pre>$ git config --global user.name "[username]" </pre>
 
-git config --global color.ui auto
+<pre>$ git config --global user.email "[valid-email]" </pre>
 
-# Working with Local Branch
+<pre>$ git config --global color.ui auto </pre>
 
-## Create a branch
+</details>
 
-git branch <branch_name>
+---
 
-## Display all branches
+## Working with Local Branch
+<details>
+<summary>Find out more </summary>
+<br>
 
-git branch -a
+- Create a branch
 
-##  Delete a branch
+<pre>$ git branch <branch_name> </pre>
 
-git branch -d <branch_name>
+<br>
+  
+- Display all branches
 
-## Delete remote branch
+<pre>$ git branch -a </pre>
 
-git push origin –delete [branchName]
+<br>
+  
+-  Delete a branch
 
-## Checkout an existing branch
+<pre>$ git branch -d <branch_name> </pre>
 
-git checkout <branch_name>
 
-##  Checkout and create a new branch
+<br>
+  
+- Delete remote branch
 
-git checkout -b <new_branch_name>
+<pre>$ git push origin –delete [branchName] </pre>
 
-## Merge a branch into an active branch
 
-git merge <branch_name>
+<br>
+  
+- Checkout an existing branch
 
-## Recover a deleted file and prepare it for commit
+<pre>$ git checkout <branch_name> </pre>
 
-git checkout <deleted_file-name>
 
+<br>
+  
+-  Checkout and create a new branch
 
-# Working With Remote Repositories
+<pre>$ git checkout -b <new_branch_name> </pre>
 
-git remote add origin <repository url>
 
-## git Clone
+<br>
+  
+- Merge a branch into an active branch
 
-git clone <remote url>
+<pre>$ git merge <branch_name> </pre>
 
-## git push
 
-git push -u origin master
+<br>
+  
+- Recover a deleted file and prepare it for commit
 
-## git push
+<pre>$ git checkout <deleted_file-name> </pre>
 
-git pull origin master
+  
+</details>
 
-## git fetch
+---
 
-git fetch <remote> <branch>
+## Working With Remote Repositories
+<details>
+<summary>Find out more </summary>
 
+<pre>$ git remote add origin <repository url> </pre>
 
-# Working With Local Repositories
 
-## Create a new Folder
+<br>
+  
+- git Clone
 
-mkdir test
+<pre>$ git clone <remote url> </pre>
 
-## Initialize Git
 
-cd test/
-git init
+<br>
+  
+- git push
 
-## Create Readme file
+<pre>$ git push -u origin master </pre>
 
-cat > Readme.md
 
-## Staging
+<br>
+  
+- git push
 
-git add .
+<pre>$ git pull origin master </pre>
 
-git add <filename>
 
-## Check status
+<br>
+  
+- git fetch
 
-git status
+<pre>$ git fetch <remote> <branch> </pre>
 
-##  Committing staged files
+</details>
 
-git commit -m "Commit message"
+---
 
-# Remove file
 
-git rm <file_name>
+## Working With Local Repositories
+<details>
+<summary>Find out more </summary>
 
-# logs
 
-git rm <file_name>
+<br>
+  
+- Create a new Folder
 
+<pre>$ mkdir test </pre>
 
-# Additional Commands
 
-## git stash
+<br>
+  
+- Initialize Git
 
-git stash -u
+<pre>$ cd test/ </pre>
 
-## brings the stashed work back to the working directory
+<pre>$ git init </pre>
 
-## undoing changes
 
-git reset <file>
+<br>
+  
+- Create Readme file
 
-git clean -n
+<pre>$ cat > Readme.md </pre>
 
-## Define a tag
 
-git tag <tagname>
+<br>
+  
+- Staging
 
-## git diff
+<pre>$ git add . </pre>
 
-git diff
+<pre>$ git add <filename> </pre>
 
-git diff --staged
 
-git diff <commit1> <commit2>
+<br>
+  
+- Check status
 
+<pre>$ git status </pre>
 
+
+<br>
+  
+-  Committing staged files
+
+<pre>$ git commit -m "Commit message" </pre>
+
+
+<br>
+  
+- Remove file
+
+<pre>$ git rm <file_name> </pre>
+
+
+<br>
+  
+- logs
+
+<pre>$ git rm <file_name> </pre>
+
+</details>
+
+---
+
+## Additional Commands
+<details>
+<summary>Find out more </summary>
+
+
+<br>
+  
+- git stash
+
+<pre>$ git stash -u </pre>
+
+
+<br>
+  
+- brings the stashed work back to the working directory
+
+<pre>$ git stash pop </pre>
+
+<br>
+  
+- undoing changes
+
+<pre>$ git reset <file> </pre>
+
+<pre>$ git clean -n </pre>
+
+
+<br>
+  
+- Define a tag
+
+<pre>$ git tag <tagname> </pre>
+
+
+<br>
+  
+- git diff
+
+<pre>$ git diff </pre>
+
+<pre>$ git diff --staged </pre>
+
+<pre>$ git diff <commit1> <commit2> </pre>
+
+</details>
+
+---
 
