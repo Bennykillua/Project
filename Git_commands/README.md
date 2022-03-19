@@ -4,7 +4,7 @@
 This repos contains some basic and most useful commands in Git.
 
 ## Installation
-<details>
+<details open>
 <summary>Find out more </summary>
  
 <pre>$ git --version </pre>
@@ -14,7 +14,7 @@ This repos contains some basic and most useful commands in Git.
 ---
 
 ## Git configuartion 
-<details>
+<details open>
 <summary>Find out more</summary>
 
 <pre>$ git config --global user.name "[username]" </pre>
