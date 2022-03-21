@@ -1,11 +1,20 @@
 # Pi Day Pie Data Dataset
 
 **Dataset credit** to [Onyx Data – #dataDNA – Dataset Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)
+
 **Tutorial blog here** 
 
-This month we are celebrating Pi Day (https://en.wikipedia.org/wiki/Pi_Day) by analyzing a fictional bakery’s pie data!
+## Dashaboard
 
-Help Pie Bakery to improve their business by gathering insights from the last two years of pie sales!
+**Power BI Dashboard** [Take a look](https://app.powerbi.com/view?r=eyJrIjoiZGM3YTRiZGQtYTMwYS00NzcxLWExMjctMjM3NmI0ZjdiZTY2IiwidCI6IjViMmFkZmYyLTdkMzctNDcyMS05M2FiLTYyNGZmMDYyNmRjMCJ9)
+
+**Power BI Dashboard** [Take a look](https://app.astrato.io/workbooks/c25df9ac-ade2-43f8-bc8f-0708582f833f/view/sheets/3f9f259e-0bcb-40a4-b65f-d007a2b0848d)
+
+## Dataset details
+
+[Onyx Data](https://onyxdata.co.uk/), [Astrato Analytics](https://astrato.io/), [Packt](https://www.packtpub.com/), and [Veras Solution](https://www.verasolutions.org/?locale=en) collaborated to create this imaginary bakery's pie data in honor of [Pi Day](https://en.wikipedia.org/wiki/Pi Day) 𝛑≈3.14, which falls on Monday, March 14th, 2022.
+
+Let's help this Pie Bakery to improve their business by gathering insights from the last two years of pie sales!
 
 | Column Name                 | Description                                                   | Data Type |
 |-----------------------------|---------------------------------------------------------------|-----------|
