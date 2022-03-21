@@ -1,6 +1,7 @@
 # Pi Day Pie Data Dataset
 
-Dataset credit to [Onyx Data – #dataDNA – Dataset Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)
+**Dataset credit** to [Onyx Data – #dataDNA – Dataset Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)
+**Tutorial blog here** 
 
 This month we are celebrating Pi Day (https://en.wikipedia.org/wiki/Pi_Day) by analyzing a fictional bakery’s pie data!
 
