@@ -2,7 +2,9 @@
 
 **Dataset credit** to [Onyx Data – #dataDNA – Dataset Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)
 
-**Tutorial blog here** 
+**Tutorial blog [here](https://benny.hashnode.dev/data-visualization-with-astrato-analytics)** 
+
+Take a look at this [page](https://carnelian-valley-b92.notion.site/How-to-embed-Power-BI-into-Notion-2f19c7d1a7ca46ffb0fcae1ddeefbb0a) 😉
 
 ## Dashaboard
 
