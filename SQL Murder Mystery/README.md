@@ -126,7 +126,7 @@ and person.id = 28819 or person.id = 67318
 
 Jeremy Bowers is the KILLER!
 
-## Is Jeremy Bowers really the killer?
+## 6. Is Jeremy Bowers really the killer?
 Run this query.
 ```
 INSERT INTO solution VALUES (1, 'Jeremy Bowers');
@@ -135,7 +135,7 @@ INSERT INTO solution VALUES (1, 'Jeremy Bowers');
 ```     
 
 
-## 6. Who hired him Jeremy Bowers?
+## 7. Who hired him Jeremy Bowers?
 
 Run this query.
 ```
@@ -151,9 +151,7 @@ AND (drivers_license.height = 65 OR drivers_license.height = 67)
 ![fork repository](https://github.com/Bennykillua/sql-mysteries-SOLVED/blob/master/Solved%20solution/images/Capture.PNG)
 
 
-Killer = Jeremy Bowers 
-
-Hired by Red Korb
+Killer = Jeremy Bowers and he was hired by Red Korb
 
 # Congratulation 🎉 
 
