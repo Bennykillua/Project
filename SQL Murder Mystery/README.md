@@ -157,7 +157,7 @@ Hired by Red Korb
 
 # Congratulation 🎉 
 
-Wanna watch a video explaining it ? check out []()
+Wanna watch a video explaining it ? check out [this video](https://www.youtube.com/watch?v=PPhp6CBO9sQ&t=131s)
 
 ### Wanna explore more SQL datasets?
 
