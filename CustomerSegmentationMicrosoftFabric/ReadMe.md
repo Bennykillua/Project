@@ -13,3 +13,14 @@ This notebook shows how to:
 - Explores data Wrangler.
 - Perform customer segmentation in Microsoft Fabric.
 - Save your data and predictions in your Lakehouses.
+
+# Import the notebook from GitHub
+You can make use of the [CustomerSegmentationMicrosoftFabric.ipynb notebook](https://github.com/Bennykillua/Project/blob/main/CustomerSegmentationMicrosoftFabric/CustomerSegmentationMicrosoftFabric.ipynb) for the tutorial.
+
+To open the accompanying notebook for this tutorial, follow the instructions in [Prepare your system for data science tutorials, to import the notebook to your workspace](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-prepare-system#import-tutorial-notebooks).
+
+If you'd rather copy and paste the code from this page, you can [create a new notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook#create-notebooks).
+
+Be sure to [attach a lakehouse to the notebook before you start running code](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-prepare-system#attach-a-lakehouse-to-the-notebooks).
+
+The Import the notebook instruction was copied from the offical documenataion. To learn more do visit the [official documentation](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-introduction)
