@@ -87,6 +87,9 @@ VALUES
 ('	1/22/2024	',	'Instant noodles',	'18',	'250',	'4500',	'Ibadan'),
 ('	1/23/2024	',	'Instant noodles',	'8',	'250',	'2000',	'Lagos'),
 ('	1/24/2024	',	'Full Milk',	'10',	'800',	'8000',	'Ibadan'),
+('	1/25/2024	',	'chocolate',	'17',	'870',	'14790',	'Ibadan')
+
+```
 
 
 
@@ -710,6 +713,4 @@ Notch - I personally feel this as a feature which is not useful for this size (5
 
 There are better options available in same price range','NULL')
 
-('	1/25/2024	',	'chocolate',	'17',	'870',	'14790',	'Ibadan')
 
-```
