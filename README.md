@@ -1,6 +1,10 @@
 # Project
 Machine Learning and Data Analytics Projects 
 
+- [How to Send Positive SMS to Recipients with Programmable Messaging API and OpenAI API](https://github.com/Bennykillua/Twilio_wordOfAffirmationServiceApp)
+
+- 
+
 ```mermaid
 sequenceDiagram
     participant dotcom
